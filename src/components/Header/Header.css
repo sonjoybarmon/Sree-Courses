@@ -1,0 +1,13 @@
+.OurMenu ul li a{
+    font-size: 20px;
+    color: #fff;
+}
+.OurMenu{
+    text-align: center;
+}
+.OurMenu ul{
+    margin-left: 50px;
+}
+.OurMenu li {
+    margin: 0px 15px;
+}

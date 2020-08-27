@@ -1,0 +1,12 @@
+.courseContainer{
+    display: flex;
+    
+}
+.courseReviwe{
+    background: #f1f1f1;
+    width: 28%;
+    padding: 20px;
+    border-radius :15px;
+    margin-top: 15px;
+    margin-right: 20px;
+}
